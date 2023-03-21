@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.4)  21 MAR 2023 17:44
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.4)  21 MAR 2023 22:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**resume-photo.tex
-(./resume-photo.tex
+**"Qiuhuan Xiong-resume.tex"
+(./Qiuhuan Xiong-resume.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (./setting.cls
 Document Class: setting 
@@ -758,8 +758,8 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count319
 \enitdp@description=\count320
 ))
-(./resume-photo.aux)
-\openout1 = `resume-photo.aux'.
+(./Qiuhuan Xiong-resume.aux)
+\openout1 = `"Qiuhuan Xiong-resume.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
@@ -772,7 +772,8 @@ LaTeX Font Info:    ... okay on input line 2.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
 .
- (c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 2.
@@ -803,9 +804,9 @@ LaTeX Info: Redefining \ref on input line 2.
 LaTeX Info: Redefining \pageref on input line 2.
 LaTeX Info: Redefining \nameref on input line 2.
 
-(./resume-photo.out) (./resume-photo.out)
+(./Qiuhuan Xiong-resume.out) (./Qiuhuan Xiong-resume.out)
 \@outlinefile=\write4
-\openout4 = `resume-photo.out'.
+\openout4 = `"Qiuhuan Xiong-resume.out"'.
 
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
@@ -967,113 +968,106 @@ Underfull \hbox (badness 10000) detected at line 18
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 20.
+(hyperref)                removing `\@ifnextchar' on input line 21.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\widthof' on input line 20.
+(hyperref)                removing `\widthof' on input line 21.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 20.
+(hyperref)                removing `\FA' on input line 21.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 20.
+(hyperref)                removing `\@ifnextchar' on input line 21.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 20.
+(hyperref)                removing `\FA' on input line 21.
 
 
-Underfull \hbox (badness 10000) detected at line 22
-\TU/Pro_GB18030.ttf(0)/m/n/10.95 至 今
- []
-
-
-Underfull \hbox (badness 10000) detected at line 24
+Underfull \hbox (badness 10000) detected at line 23
 \TU/Pro_GB18030.ttf(0)/m/n/10.95 至 今
  []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 28.
+(hyperref)                removing `\@ifnextchar' on input line 30.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\widthof' on input line 28.
+(hyperref)                removing `\widthof' on input line 30.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 28.
+(hyperref)                removing `\FA' on input line 30.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 28.
+(hyperref)                removing `\@ifnextchar' on input line 30.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 28.
+(hyperref)                removing `\FA' on input line 30.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 35.
+(hyperref)                removing `\@ifnextchar' on input line 37.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\widthof' on input line 35.
+(hyperref)                removing `\widthof' on input line 37.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 35.
+(hyperref)                removing `\FA' on input line 37.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 35.
+(hyperref)                removing `\@ifnextchar' on input line 37.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 35.
+(hyperref)                removing `\FA' on input line 37.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 43.
+(hyperref)                removing `\@ifnextchar' on input line 45.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\widthof' on input line 43.
+(hyperref)                removing `\widthof' on input line 45.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 43.
+(hyperref)                removing `\FA' on input line 45.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 43.
+(hyperref)                removing `\@ifnextchar' on input line 45.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\FA' on input line 43.
+(hyperref)                removing `\FA' on input line 45.
 
 ) (./footer.tex) [1
 
-] (./resume-photo.aux)
+] (./Qiuhuan Xiong-resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+Package rerunfilecheck Info: File `"Qiuhuan Xiong-resume".out' has not changed.
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package rerunfilecheck Info: File `resume-photo.out' has not changed.
-(rerunfilecheck)             Checksum: B1ED2C9A869D2A5C8C251142428729CE;908.
+(rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
  24921 strings out of 476939
- 513527 string characters out of 5826133
- 876201 words of memory out of 5000000
+ 513647 string characters out of 5826133
+ 875207 words of memory out of 5000000
  44473 multiletter control sequences out of 15000+600000
  404014 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 111i,5n,117p,440b,586s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 111i,5n,117p,450b,586s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume-photo.pdf (1 page).
+Output written on Qiuhuan Xiong-resume.pdf (1 page).
