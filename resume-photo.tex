@@ -1,0 +1,21 @@
+\documentclass{setting}
+\begin{document}
+\pagenumbering{gobble} % suppress displaying page number
+
+%%%% 利用tikz来定位照片
+\begin{tikzpicture}[remember picture, overlay]
+  \node[anchor = north east] at ($(current page.north east)+(-1.5cm,-1cm)$) {\includegraphics[height=3.5cm]{avatar}};
+\end{tikzpicture}%
+
+%%%% 利用tikz来定位学校Logo，这部分没有遵守College logo positioning
+\begin{tikzpicture}[remember picture, overlay]
+  \node[anchor = north west] at ($(current page.north west)+(0cm, -0.45cm)$) {\includegraphics[width=7cm]{nju.png}};
+\end{tikzpicture}
+
+\name{熊丘桓}
+\basicContactInfo{(+86)189-5508-5193}{eaglebear@smail.nju.edu.cn}
+
+\input{body}
+
+\input{footer}
+\end{document}
