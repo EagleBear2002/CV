@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.4)  21 MAR 2023 22:44
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.3.4)  22 MAR 2023 07:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1064,7 +1064,7 @@ Package rerunfilecheck Info: File `"Qiuhuan Xiong-resume".out' has not changed.
 Here is how much of TeX's memory you used:
  24921 strings out of 476939
  513647 string characters out of 5826133
- 875207 words of memory out of 5000000
+ 875206 words of memory out of 5000000
  44473 multiletter control sequences out of 15000+600000
  404014 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
